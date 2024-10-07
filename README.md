@@ -1,2 +1,2 @@
 # Newsfeed_Analysis-
-Newsfeed Analysis Dashboard using Tableau
+The main goal is to generate graphs that analyze users’ interaction patterns with the 365 platform’s Newsfeed service
