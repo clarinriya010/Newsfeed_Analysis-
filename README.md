@@ -16,23 +16,27 @@ The dataset consists of large-scale user engagement data, including:
 - Session activity
 - User retention metrics
 
+## 📈 Dashboard Preview
+![Newsfeed Analysis Dashboard](./Newsfeed%20Analysis.png)
+
+> This dashboard highlights post activity trends, subtype distribution, likes, comments, and overall user engagement.
+
 ## 📈 Key Analysis
-- Explored engagement trends across content types and time periods  
-- Identified underperforming content and user drop-off points  
-- Generated visualizations to highlight behavioral patterns  
+- Explored monthly post activity and average likes trends  
+- Analyzed subtype distribution (Level, Course Certificate, Streak, etc.)  
+- Measured engagement through likes and comments across content types  
+- Identified high-performing and low-performing content categories  
 
 ## 🧪 A/B Testing
 - Conducted A/B testing to compare different content strategies  
 - Measured impact on CTR, engagement, and retention  
 - Derived insights to improve content effectiveness  
 
-## 📊 Dashboard
-Developed interactive dashboards to monitor:
-- Click-Through Rate (CTR)
-- Engagement metrics
-- Retention trends  
-
-These dashboards support real-time tracking and data-driven decision-making.
+## 📊 Dashboard Insights
+- **Level posts** dominate in volume and engagement  
+- **Course certificates** drive high likes  
+- **Text posts** receive higher comments (discussion-driven)  
+- Significant gap between **active users and total visits**, indicating engagement opportunities  
 
 ## 🛠️ Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
